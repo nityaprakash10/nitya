@@ -1,1 +1,12 @@
 # nitya
+<html>
+  <head><script language="javascript">
+    function sq()
+{var i,n;
+    n=f1t1 value;
+    i=n*n
+ document.write ("square of the no is " +i);
+ }
+    </script></head>
+  <input type=submit value=square OnClick ="sq()">
+  </body></html>
